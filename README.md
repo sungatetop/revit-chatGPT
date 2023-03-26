@@ -1,0 +1,2 @@
+# chatGPT-AnywhereAnyTimeAnyBody
+探索在现有软件中加持chatGPT，让所有人随时随地可用chatGPT
