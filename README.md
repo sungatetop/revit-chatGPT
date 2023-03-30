@@ -1,4 +1,4 @@
-# chatGPT-AnywhereAnyTimeAnyBody
+# revit-chatGPT
 探索在现有软件中加持chatGPT，让所有人随时随地可用chatGPT
 
 收集寻找各种软件加持chatGPT的解决方案
