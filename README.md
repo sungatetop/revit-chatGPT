@@ -1,6 +1,5 @@
 # revit-chatGPT
-探索在现有软件中加持chatGPT，让所有人随时随地可用chatGPT
-
+探索在现有软件中加持chatGPT
 收集寻找各种软件加持chatGPT的解决方案
 # 已有的一些尝试案例
 
